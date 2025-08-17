@@ -12,7 +12,6 @@ This repository contains the VHDL source code for a pipelined MIPS processor. Th
 The main directories are:
 
 *   **DUT (Device Under Test):** Contains the core VHDL source files for the MIPS processor.
-*   **Library:** Includes example C and assembly programs, along with their compiled hexadecimal (`.hex`) files, which can be used as input for the processor.
 *   **TB (Testbench):** Contains the VHDL testbench (`tb_sc_mips.vhd`) for simulating and verifying the MIPS processor.
 
 ## DUT (Device Under Test) Modules
